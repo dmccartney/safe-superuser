@@ -10,6 +10,14 @@
   },
   "author": "Daniel McCartney <dmccartney@gmail.com>",
   "license": "MIT",
+  "homepage": "https://github.com/dmccartney/safe-superuser",
+  "repository": {
+    "type": "git",
+    "url": "https:git@github.com:dmccartney/safe-superuser.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dmccartney/safe-superuser/issues"
+  },
   "dependencies": {
     "@openzeppelin/contracts": "^4.8.2"
   },

@@ -1,5 +1,8 @@
 # safe-superuser
 
+[![NPM version](https://img.shields.io/npm/v/safe-superuser.svg?style=flat-square)](https://www.npmjs.com/package/safe-superuser)
+![Test](https://github.com/dmccartney/safe-superuser/actions/workflows/test.yml/badge.svg)
+
 The `SuperUserModule` is a Gnosis Safe add-on that enables trusted super-users to execute
 transactions without additional confirmations, streamlining the process.
 
